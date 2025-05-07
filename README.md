@@ -1,5 +1,4 @@
 # freetrade-dos
-This is the structure treed out yo!
 ```
 ├── assets
 │   ├── dzbin267
